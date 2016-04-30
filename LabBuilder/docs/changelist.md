@@ -1,3 +1,6 @@
+# Unreleased
+* Invoke-Tests.ps1: Added script to parallelize Unit tests using Cidney (https://github.com/Cidney/Cidney).
+
 # 0.7.7.0
 * Samples\Sample_WS2016TP5_DCandDHCPOnly.xml: Set edition in Nano Server Template VHD.
                                               Fixed WS2016 Template VHD edition names.

@@ -1,0 +1,21 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "PowerShell",
+			"type": "PowerShell",
+			"request": "launch",
+			"program": "${workspaceRoot}\\LabBuilder\\tests\\Invoke-Test.ps1",
+			"args": [],
+			"cwd": "${workspaceRoot}\\LabBuilder\\tests\\"
+		},
+		{
+			"name": "PowerShell x86",
+			"type": "PowerShell x86",
+			"request": "launch",
+			"program": "${workspaceRoot}\\LabBuilder\\tests\\Invoke-Test.ps1",
+			"args": [],
+			"cwd": "${workspaceRoot}\\LabBuilder\\tests\\"
+		}
+	]
+}
