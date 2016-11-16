@@ -71,14 +71,14 @@ If the changes are related to an existing GitHub issue, please reference the iss
 
 We use [AppVeyor](http://www.appveyor.com/) as a continious integration (CI) system.
 
-![AppVeyor-Badge-Green.png](Images/AppVeyor-Badge-Green.png)
+![AppVeyor-Badge-Green.png](images/AppVeyor-Badge-Green.png)
 
 This badge is **clickable**, you can open corresponding build page with logs, artifacts and tests results.
 From there you can easily navigate to the whole build history.
 
 AppVeyor builds and runs tests on every pull request and provides quick feedback about it.
 
-![AppVeyor-Github](Images/AppVeyor-Github.png)
+![AppVeyor-Github](images/AppVeyor-Github.png)
 
 These green checkboxes and red crosses are **clickable** as well. 
 They will bring you to the corresponding page with details. 
