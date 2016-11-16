@@ -40,7 +40,7 @@ When contributing to any PowerShell repositories, please follow the following [S
 * **Always create pull requests to the `dev` branch of the repository**. 
 For more information, learn about our [branch structure](#branch-structure).
 
-![Github-PR-dev.png](Images/Github-PR-dev.png)
+![Github-PR-dev.png](images/Github-PR-dev.png)
 
 * Add meaningful title of the PR describing what change you want to check in. Don't simply put: "Fixes issue #5". Better example is: "Added Ensure parameter to xFile resource. Fixes #5". 
 
